@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "portfolio-34f5c",
+    "staging": "midhunkumar-2d322"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
